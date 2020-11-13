@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+
+h1 {
+    font-size: 3rem;
+}
+
+span {
+    color: white;
+}
+
+body {
+    
+    font-family: 'Goldman', cursive;
+}
+
+.large-nums {
+    font-size: 3rem;
+}
+
+.background {
+    background-color: #7f5a83;
+    background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+    height: 100vh;
+}
